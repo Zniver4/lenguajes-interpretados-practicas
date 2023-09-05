@@ -14,3 +14,6 @@ estamos aprendiendo todo lo de la computadora
 
 **composicion y diseño-roberto melo**
 estamos aprendiendo photoshop
+
+**diseño de videojuego- Hector Guerrero**
+estamos aprendiendo hacer los videojuegos y el diseño de ellos

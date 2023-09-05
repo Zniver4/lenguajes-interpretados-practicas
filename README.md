@@ -17,3 +17,6 @@ estamos aprendiendo photoshop
 
 **diseño de videojuego- Hector Guerrero**
 estamos aprendiendo hacer los videojuegos y el diseño de ellos
+
+**proyecto de app-sebastian mejia** 
+estamos aprendiendo hacer una app y mejorarla
